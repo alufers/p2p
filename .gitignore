@@ -1,6 +1,6 @@
 
 .vscode
-./alup2p
+alu_p2p
 ./p2p
 
 # Created by https://www.gitignore.io/api/c
